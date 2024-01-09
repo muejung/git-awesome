@@ -1,2 +1,2 @@
-Hello, Bootcamp.
+Hello, JAVA Bootcamp.
 from Muejung
