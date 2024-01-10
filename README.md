@@ -1,2 +1,1 @@
-Hello, JAVA Bootcamp.
-from Muejung
+Hello, JAVA Bootcamp, I change background to red.
